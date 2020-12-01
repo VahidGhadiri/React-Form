@@ -1,2 +1,2 @@
 # React-Form
-React forms with google &amp; facebook authentication
+Google & Facebook Authentication with React - Firebase
